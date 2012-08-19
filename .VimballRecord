@@ -1,0 +1,2 @@
+supertab.vmb: call delete('/home/paritosh/.vim/doc/supertab.txt')|call delete('/home/paritosh/.vim/plugin/supertab.vim')
+supertab.vmb: call delete('/home/paritosh/.vim/doc/supertab.txt')|call delete('/home/paritosh/.vim/plugin/supertab.vim')
