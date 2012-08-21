@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/paritosh/rails_projects/college_app'
-let g:netrw_dirhist_2='/home/paritosh/.local/share/Trash/files/college_app'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/paritosh/college_app'
+let g:netrw_dirhist_2='/home/paritosh/college_app/app/views/users'
+let g:netrw_dirhist_3='/home/paritosh/college_app/app/views'
+let g:netrw_dirhist_4='/home/paritosh/college_app'

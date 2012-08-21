@@ -9,10 +9,10 @@ snippet contf
 
 # form
 snippet ff
-	<%= form_for @{1:model} do |f| %>
-	    <%= f.submit "${2:button}" %>
+	<%= form_for @${1:model} do |f| %>
+		<%= f.error_messages %>
+		<%= f.submit "${2:button}" %>
 	<% end %>
-	
 snippet ffef
 	<%= f.email_field :${1:attribute} %>
 snippet ffff
