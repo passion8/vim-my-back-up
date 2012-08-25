@@ -8,11 +8,13 @@ snippet des
 		${2}
 	end
 snippet desc
-	describe ${1:class} do
-		before do
+	describe "${1:class}" do
+		before(:each) do
 			${2}
 		end
-
+	  it "should ${3}" do
+	    ${4}
+	  end
 	end
 snippet descd
 	describe ${1:class}, "${2:description}" do
