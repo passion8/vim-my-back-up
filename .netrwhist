@@ -1,10 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/paritosh/Templates/dotfiles/bash'
-let g:netrw_dirhist_2='/home/paritosh/Templates/dotfiles'
-let g:netrw_dirhist_3='/home/paritosh/rails_projects/college_app'
-let g:netrw_dirhist_4='/home/paritosh/.ssh'
-let g:netrw_dirhist_5='/home/paritosh/rails_projects/college_app'
-let g:netrw_dirhist_6='/home/paritosh/rails_projects'
-let g:netrw_dirhist_7='/home/paritosh/rails_projects/college_app'
-let g:netrw_dirhist_8='/home/paritosh/.vim'
+let g:netrw_dirhist_cnt =0
