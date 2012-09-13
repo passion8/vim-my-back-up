@@ -1,8 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/paritosh/rails_projects/college_app'
 let g:netrw_dirhist_2='/home/paritosh/.vim/snippets'
 let g:netrw_dirhist_3='/home/paritosh/.vim'
 let g:netrw_dirhist_4='/home/paritosh/rails_projects/college_app'
-let g:netrw_dirhist_5='/home/paritosh/.vim'
-let g:netrw_dirhist_6='/home/paritosh/.vim/snippets'
+let g:netrw_dirhist_5='/home/paritosh/cpluscplus'
