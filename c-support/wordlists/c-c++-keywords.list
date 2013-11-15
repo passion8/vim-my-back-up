@@ -96,7 +96,7 @@ typename
 union
 unsigned
 using
-virtual
+virtual 
 void
 volatile
 wchar_t
